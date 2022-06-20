@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cattonum"]
+	path = cattonum
+	url = https://github.com/bfgray3/cattonum
+	shallow = true
+	registered = true
